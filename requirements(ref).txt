@@ -3,6 +3,6 @@ numpy==1.16.4
 tensorflow==1.12.0
 tflearn==0.3.2
 pickleshare==0.7.5
-Pillow==7.2.0
+Pillow==8.1.1
 json5==0.9.4
 Flask==1.1.2
