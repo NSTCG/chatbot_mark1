@@ -1,6 +1,6 @@
 nltk==3.3
 numpy==1.16.4
-tensorflow==1.12.0
+tensorflow==2.6.4
 tflearn==0.3.2
 pickleshare==0.7.5
 Pillow==7.2.0
