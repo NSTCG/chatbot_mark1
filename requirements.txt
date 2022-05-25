@@ -82,7 +82,7 @@ pyasn1-modules==0.2.8
 pycparser==2.20
 pydub==0.24.1
 Pygments==2.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.7
 pyperclip==1.8.0
 pyrsistent==0.16.0
