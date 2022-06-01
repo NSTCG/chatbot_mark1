@@ -41,7 +41,7 @@ hstspreload==2020.7.7
 html5lib==0.9999999
 httpcore==0.9.1
 httplib2==0.18.1
-httpx==0.13.3
+httpx==0.23.0
 hyperframe==5.2.0
 idna==2.9
 immutables==0.14
